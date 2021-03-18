@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Patrick Tsai @pattsai-wsu currently a Junior at Washington State University, Vancouver
 - 👀 I’m interested in C, Java, MySQL, Databases, Machine Learning and AI
-- 🌱 I’m currently learning Python, Graph Search algorithms, Relational Databases, Systems programming
-- 💞️ I’m looking to collaborate on Drupal projects
+- 🤷‍♂️ I’m currently learning Python, Graph Search algorithms, Relational Databases, Systems programming
+- 🍕 I’m looking to collaborate on Drupal projects
 - 📫 How to reach me: patrick.tsai@wsu.edu
 
 <!---
