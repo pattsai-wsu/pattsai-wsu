@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Patrick Tsai @pattsai-wsu currently a Senior at Washington State University, Vancouver
-- 👀 I’m interested in C, Java, MySQL, Databases, Machine Learning and AI
-- 🤷‍♂️ I’m currently learning Python, Graph Search algorithms, Relational Databases, Systems programming
-- 🍕 I’m looking to collaborate on Drupal projects
+- 👀 I’m interested in C, Java, Python, MySQL, Bluetooth LE, Machine Learning and AI
+- 🤷‍♂️ I’m currently working in Dr. Scott Wallace's lab at WSU - learning how to reverse engineer Bluetooth LE devices
 - 📫 How to reach me: patrick.tsai@wsu.edu
 
 <!---
