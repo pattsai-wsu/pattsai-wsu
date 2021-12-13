@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Patrick Tsai @pattsai-wsu currently a Senior at Washington State University, Vancouver (Graduating May 2022)
-- 👀 I’m interested in C, Java, Bluetooth LE, CI/CD (GitHub, Jenkins), Cloud Computing (EC2, RDS)
+- 👀 I’m interested in C, Java, Javax WS, Bluetooth LE, CI/CD (GitHub, Jenkins), Cloud Computing (EC2, RDS)
 - 🤷‍♂️ I’m currently working with Shelly Fritz (RN, PhD) and Scott Wallace (PhD) on home automation, connecting health and computer science.
 - 📫 How to reach me: patrick.tsai@wsu.edu
 
