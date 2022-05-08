@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Patrick Tsai @pattsai-wsu currently a recent Washington State University, Vancouver CS graduate (2022)
+- 👋 Hi, I’m Patrick Tsai @pattsai-wsu a recent WSU Computer Science graduate (2022)
 - 👀 I’m interested in C, Java, JAX RS, Bluetooth LE, CI/CD (GitHub, Jenkins), Cloud Computing (EC2, RDS)
 - 📫 How to reach me: patrick.tsai@wsu.edu
 
